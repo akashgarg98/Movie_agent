@@ -1,0 +1,5 @@
+tmdbv3api
+duckduckgo-search
+google-generativeai
+python-dotenv
+schedule
