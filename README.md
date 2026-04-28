@@ -1,3 +1,4 @@
+Check out whats in there file for easy understanding.
 # Movie Agent Setup Guide
 
 This guide will help you set up and run the Movie Agent on your local machine.
