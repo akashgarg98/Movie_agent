@@ -7,3 +7,4 @@ __pycache__/
 diag.py
 test_*.py
 list_models.py
+README.md
